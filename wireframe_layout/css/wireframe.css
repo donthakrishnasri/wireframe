@@ -1,0 +1,294 @@
+.active {
+  background-color: grey;
+  color: white;
+}
+h1{
+    margin-left: 40px;
+}
+.or{
+    height: 50px;
+    width:15px;
+    border-width: 3px;
+    background-color: #FFD700;
+margin-left: 40px;
+}
+.or1{
+     height: 50px;
+    width:15px;
+    border-width: 3px;
+    background-color:  #FFD700;
+margin-left: 40px;
+
+
+}
+.disc1{
+    padding-top: 10px;
+    font-size: 10px;
+}
+.img1{
+    margin-left: 40px;
+}
+div.t{
+    color:#A52A2A;
+    padding-right: 150px;
+    font-size: 13px;
+    font-weight: 10px;
+    
+}
+.clear{
+    clear: both;
+}
+.bg2{
+    height:650px;
+    width:1240px;
+    margin-left: 40px;
+
+    background-color: #DCDCDC;
+}
+
+h3{
+    color:grey;
+    text-align: left;
+    padding-left: 40px;
+}
+div.item {
+    /* To correctly align image, regardless of content height: */
+    vertical-align: top;
+    display: inline-block;
+    /* To horizontally center images and caption */
+    text-align: center;
+    /* The width of the container also implies margin around the images. */
+    
+}
+.caption {
+    /* Make the caption a block so it occupies its own line. */
+    display: block;
+}
+.p1{
+    margin-left: 40px;
+    font-size: 19px;
+    font-family: 'Quicksand', sans-serif;
+}
+.disc{
+    padding-left: 20px;
+}
+.navbar {
+    float: right;
+    margin-right: 50px;
+    overflow: hidden;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a1:link{
+    color:  #FFD700;
+}
+
+.navbar a {
+    float: right;
+    margin-left: 40px;
+
+        font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: lightgrey;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: grey;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.event1{
+    position: static;
+    height:250px;
+     width:550px;
+     background-color: white;
+     border-radius: 4px;
+     margin-left: 50px;
+     margin-top: 20px;
+}
+.p3{
+    font-size: 40px;
+    padding-left: 50px;
+    padding-top: 80PX;
+    font-weight: 5PX;
+}
+.p4{
+    font-size: 40px;
+    padding-left: 40px;
+    padding-bottom: : 70PX;
+    font-weight: 4PX;
+    color:grey;
+    float: top;
+}
+.or2{
+     height: 250px;
+    width:15px;
+    border-width: 5px;
+   padding-left: 200px;
+   padding-bottom: 30px;
+ 
+border-right-style:dashed;
+    border-color: black;
+
+}
+
+
+
+.example {
+  -webkit-columns: 3 150px;
+  -moz-columns: 3 150px;
+  columns: 3 150px;
+  -webkit-column-gap: 5em;
+  -moz-column-gap: 5em;
+  column-gap: 5em;
+  -webkit-column-rule-width: 4px;
+  -moz-column-rule-width: 4px;
+  column-rule-width: 4px;
+  -webkit-column-rule-color: grey;
+  -moz-column-rule-color: grey;
+  column-rule-color: grey;
+  margin: 2em auto 7em;
+}
+.example-dashed {
+  -webkit-column-rule-style: dashed;
+  -moz-column-rule-style: dashed;
+  column-rule-style: dashed;
+}
+.po{
+    padding-left: 20px;
+    font-size: 40px;
+
+}
+
+.event2{
+    position: relative;
+    left: 590px;
+    bottom: 282px;
+    height:250px;
+     width:550px;
+     background-color: white;
+     border-radius: 4px;
+     margin-left: 50px;
+     margin-top: 20px;
+}
+.b:h1{
+    margin-left: 0px;
+}
+.event3{
+    position: absolute;
+    top:1005px;
+    
+    height:250px;
+     width:550px;
+     background-color: white;
+     border-radius: 4px;
+     margin-left: 50px;
+     margin-top: 20px;
+}
+.event4{
+    position: absolute;
+    left: 590px;
+    top:1025px;
+    height:250px;
+     width:550px;
+     background-color: white;
+     border-radius: 4px;
+     margin-left: 100px;
+     margin-bottom: 150px;
+}
+.or3{
+    height: 50px;
+    width:15px;
+    border-width: 3px;
+    background-color: #FFD700;
+margin-left: 40px;
+margin-top: 20px;
+}
+.example-hidden {
+  -webkit-column-rule-style: hidden;
+  -moz-column-rule-style: hidden;
+  column-rule-style: hidden;
+}
+.mail{
+  margin-left:40px;
+  margin-top:25px;
+}
+.info{
+  padding-left: 40px;
+  font-size: 10px;
+  font-family: 'Quicksand', sans-serif;
+}
+.column1 {
+    float: left;
+    width: 500px;
+    margin-right: 10px;
+    margin-left:  10px;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+.column2 {
+    float: left;
+    width: 500px;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+.locate{
+  margin-left: 30px;
+  margin-bottom: 10px;
+  font-size: 40px;
+
+
+}
+.or4{
+  height: 50px;
+    width:15px;
+    border-width: 3px;
+    background-color: #FFD700;
+margin-left: 600px;
+margin-top: 20px;
+}
+.space{
+  margin-bottom: 40px;
+}
